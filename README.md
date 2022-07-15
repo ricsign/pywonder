@@ -1,2 +1,2 @@
 ## Pywonder
-**This is a collection of Python projects.
+**This is a collection of Python projects.**
